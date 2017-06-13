@@ -1,2 +1,7 @@
-# Informative-lists
-Informative lists by ...
+# Informative lists
+
+Раздел создан с целью собрать в виде списков информацию по разным темам, связанные с интересами сообщества [Defcon-NN](http://defcon-nn.ru).
+
+Список списков:
+
+1. Список компаний, связанных с информационными технологиями [ITSecurity company](ITSecurity company.md).
