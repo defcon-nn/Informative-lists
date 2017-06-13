@@ -4,4 +4,4 @@
 
 Список списков:
 
-1. Список компаний, связанных с информационными технологиями [ITSecurity company](ITSecurity company.md).
+1. Список компаний, связанных с безопасностью в области информационных технологий [ITSecurity company](ITSecurity company.md).
