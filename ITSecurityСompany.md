@@ -44,6 +44,7 @@
 |    5  | InfoWatch                     | https://www.infowatch.ru                    |
 |    6  | Zecurion                      | http://www.zecurion.ru                      |
 |    7  | Интеллектуальные Сети         | https://igrids.ru/company/services/security |
+|    8  | Group-IB                      | http://www.group-ib.ru                      |
 
 [:arrow_up:Оглавление](#Оглавление)
 ## Аппаратные решения для защиты ПО и криптография
