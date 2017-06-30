@@ -45,6 +45,7 @@
 |    6  | Zecurion                      | http://www.zecurion.ru                      |
 |    7  | Интеллектуальные Сети         | https://igrids.ru/company/services/security |
 |    8  | Group-IB                      | http://www.group-ib.ru                      |
+|    9  | ASP Labs                      | http://asplabs.ru                           |
 
 [:arrow_up:Оглавление](#Оглавление)
 ## Аппаратные решения для защиты ПО и криптография
